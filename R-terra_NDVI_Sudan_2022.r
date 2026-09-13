@@ -1,3 +1,16 @@
+# ============================================================================
+# Multispectral vegetation/water indices in R (terra), Khartoum region, Sudan.
+# Code from the peer-reviewed article:
+#   Lemenkova, P.; Debeir, O. (2023). Multispectral Satellite Image Analysis for
+#   Computing Vegetation Indices by R in the Khartoum Region of Sudan,
+#   Northeast Africa. Journal of Imaging, 9(5), 98.
+#   DOI:    https://doi.org/10.3390/jimaging9050098
+#   Zenodo: https://doi.org/10.5281/zenodo.7924498
+#   HAL:    https://hal.science/hal-04094997v1
+#
+# Authors: Polina Lemenkova, Olivier Debeir  |  ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 # Computing vegetation indices
 library(terra)
 library(RColorBrewer)
