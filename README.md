@@ -77,3 +77,4 @@ Journal of Imaging 2023, 9(5), 98. https://doi.org/10.3390/jimaging9050098
 ## License
 
 See the LICENSE file in this repository (Copyright Polina Lemenkova).
+- RECI (Red-Edge Chlorophyll Index): (NIR / Red) - 1, sensitive to canopy chlorophyll content.
